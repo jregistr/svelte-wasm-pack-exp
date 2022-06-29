@@ -1,0 +1,10 @@
+{
+  "name": "svelte-and-wasm-pack",
+  "private": true,
+  "workspaces": [
+    "svelte-app",
+    "wasm-greet/pkg"
+  ],
+  "scripts": {
+  }
+}

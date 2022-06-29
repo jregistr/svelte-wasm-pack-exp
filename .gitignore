@@ -1,0 +1,6 @@
+pkg
+node_modules
+target
+build
+.idea
+yarn-error.log
